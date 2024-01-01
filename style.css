@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(47, 88%, 63%);
+}
+.page{
+    margin: 100px;
+    margin-right:300px ;
+    margin-left:300px ;
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+    border: solid black 2px;
+    
+}
+header img{
+    border-radius: 20px;
+    margin-top: 20px;
+}
